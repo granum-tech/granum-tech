@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  At Granum Technologies LLC, our mission is to revolutionize the fintech sector with software solutions that address unmet needs. Our inspiration draws from the granum, a vital component in plant cells essential for photosynthesis, mirroring our commitment to being at the core of financial technology innovation.
+At Granum Technologies LLC, our mission is to research and develop software solutions that address unmet needs. Our inspiration comes from the granum, a crucial component in plant cells essential for photosynthesis, symbolizing our commitment to being at the core of technological innovation.
 </p>
 <p align="center">
-  Founded by a seasoned engineer with a rich background in both the fintech industry and scientific research, Granum Technologies stands at the intersection of technology and holistic insight.
+Founded by a seasoned researcher and developer with extensive experience in both the fintech industry and scientific research, Granum Technologies seamlessly blends cutting-edge technology with holistic insights. 
 </p>
 <p align="center">
-  <a href="https://www.granum-tech.com/">Visit our Website</a> | 
+  <a href="https://www.granum-tech.com/">Website</a> | 
   <a href="https://x.com/granum_tech">Twitter</a>
 </p>
 
