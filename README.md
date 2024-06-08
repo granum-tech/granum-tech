@@ -24,12 +24,12 @@ Founded by a seasoned researcher and developer with extensive experience in both
 
 ## Products
 
-### CreditParsePro.io
+### creditparsepro.io
 Enable next-gen fintech innovations with creditparsepro.io: our API parses fixed-length credit reports from major US bureaus, delivering analytics and ML-ready JSON data.
 - **Website**: [creditparsepro.io](https://www.creditparsepro.io/)
 - **Twitter**: [Granum Technologies Twitter](https://x.com/granum_tech)
-- **Reddit**: [CreditParsePro Reddit](https://www.reddit.com/user/creditparsepro/)
-- **Postman Docs**: [CreditParsePro Postman](https://documenter.getpostman.com/view/34164250/2sA3BgBFus)
+- **Reddit**: [creditparsepro Reddit](https://www.reddit.com/user/creditparsepro/)
+- **Postman Docs**: [creditparsepro Postman](https://documenter.getpostman.com/view/34164250/2sA3BgBFus)
 - **Stripe Billing Portal**: [Stripe Billing](https://billing.stripe.com/p/login/14kaHj8NX5LJ5Ta8ww)
 - **Support Email**: [info@creditparsepro.io](mailto:info@creditparsepro.io)
 
