@@ -18,8 +18,7 @@ Founded by a seasoned researcher and developer with extensive experience in both
 # Contents
 - [Products](#products)
     - [creditparsepro.io](#creditparseproio)
-    - [sqlineage.io](#sqlineageio)
-    - [phase 3 due diligence](#phase-3-due-diligence-p3dd)
+- [Competitions](#competitions)
 - [Support](#support)
 
 ## Products
@@ -33,13 +32,9 @@ Enable next-gen fintech innovations with creditparsepro.io: our API parses fixed
 - **Stripe Billing Portal**: [Stripe Billing](https://billing.stripe.com/p/login/14kaHj8NX5LJ5Ta8ww)
 - **Support Email**: [info@creditparsepro.io](mailto:info@creditparsepro.io)
 
-### sqlineage.io
-A python package for Azure designed to create a comprehensive data lineage graph following data through storage accounts, SQL, and Azure Data Factory.
-- **Coming soon!**
+## Competitions
 
-### phase 3 due diligence (P3DD)
-P3DD is a comprehensive platform for investing in clinical trials. We aggregate crucial information on trial progress, outcomes, and the companies behind them - streamlining the investment process.
-- **Coming soon!**
+Coming soon!
 
 ## Support
 
