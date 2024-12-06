@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-At Granum Technologies LLC, our mission is to research and develop software solutions that address unmet needs. Our inspiration comes from the granum, a crucial component in plant cells essential for photosynthesis, symbolizing our commitment to being at the core of technological innovation.
+  Granum Technologies LLC is a fintech software & R&D company dedicated to making financial technology accessible, transparent, and easy to integrate. 
 </p>
 <p align="center">
-Founded by a seasoned researcher and developer with extensive experience in both the fintech industry and scientific research, Granum Technologies seamlessly blends cutting-edge technology with holistic insights. 
+  We specialize in building lightweight, open-source tools and SaaS solutions that help democratize the fintech landscape, empowering organizations of all sizes.
 </p>
 <p align="center">
   <a href="https://www.granum-tech.com/">Website</a> | 
@@ -18,24 +18,39 @@ Founded by a seasoned researcher and developer with extensive experience in both
 # Contents
 - [Products](#products)
     - [creditparsepro.io](#creditparseproio)
-- [Competitions](#competitions)
+    - [Open Finance Library](#open-finance-library)
+- [Consulting](#consulting)
 - [Support](#support)
 
 ## Products
 
 ### creditparsepro.io
-Enable next-gen fintech innovations with creditparsepro.io: our API parses fixed-length credit reports from major US bureaus, delivering analytics and ML-ready JSON data.
+**creditparsepro.io** is our flagship API designed to parse fixed-length credit reports from major US credit bureaus. It transforms complex raw data into clean JSON output, streamlining credit analytics and enabling next-generation fintech innovations.
+
 - **Website**: [creditparsepro.io](https://www.creditparsepro.io/)
-- **GitHub**: [/creditparsepro](https://github.com/granum-tech/creditparsepro)
-- **Reddit**: [creditparsepro Reddit](https://www.reddit.com/user/creditparsepro/)
+- **GitHub**: [creditparsepro on GitHub](https://github.com/granum-tech/creditparsepro)
 - **Postman Docs**: [creditparsepro Postman](https://documenter.getpostman.com/view/34164250/2sA3BgBFus)
 - **Stripe Billing Portal**: [Stripe Billing](https://billing.stripe.com/p/login/14kaHj8NX5LJ5Ta8ww)
 - **Support Email**: [info@creditparsepro.io](mailto:info@creditparsepro.io)
 
-## Competitions
+### Open Finance Library
+Our **Open Finance Library** is a growing collection of open-source financial models and analytic tools. This library aims to lower the barrier to entry for financial data analysis, providing transparent, customizable components that anyone can use and build upon.
+- **GitHub**: [open_finance_library](https://github.com/granum-tech/open_finance_library)
+  - [Vintage Analysis](https://github.com/granum-tech/open_finance_library/tree/main/vintage_analysis) <a href="https://colab.research.google.com/github/granum-tech/open_finance_library/blob/main/vintage_analysis/src/vintage_analysis.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+- **Support Email**: [info@granum-tech.com](mailto:info@granum-tech.com)
 
-Coming soon!
+## Consulting
+
+Need custom fintech solutions, guidance on integrating fintech APIs, or help with data engineering and analytics?  
+Reach out to [info@granum-tech.com](mailto:info@granum-tech.com) for a free consultation.
+
+<p>
+  <img src="images/azure_az900.png" alt="Granum Technologies logo" width="75">
+  <img src="images/azure_dp203.png" alt="Granum Technologies logo" width="75">
+  <img src="images/google_analytics.png" alt="Granum Technologies logo" width="75">
+</p>
 
 ## Support
+For general support, questions, or inquiries, feel free to reach out to us at [info@granum-tech.com](mailto:info@granum-tech.com).
 
-For general support and queries, please contact us at [info@granumtech.com](mailto:info@granum-tech.com).
+We appreciate your interest in Granum Technologies LLC and our mission to drive transparency and innovation in fintech. 
