@@ -15,7 +15,7 @@
   <a href="https://x.com/granum_tech">Twitter</a>
 </p>
 
-# Contents
+## Contents
 - [Products](#products)
     - [creditparsepro.io](#creditparseproio)
     - [Open Finance Library](#open-finance-library)
