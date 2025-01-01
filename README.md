@@ -29,7 +29,7 @@
 
 - **Website**: [creditparsepro.io](https://www.creditparsepro.io/)
 - **GitHub**: [creditparsepro on GitHub](https://github.com/granum-tech/creditparsepro)
-- **Postman Docs**: [creditparsepro Postman](https://documenter.getpostman.com/view/34164250/2sA3BgBFus)
+- **Postman Docs**: [creditparsepro Postman]([https://documenter.getpostman.com/view/34164250/2sA3BgBFus](https://www.postman.com/creditparsepro/creditpasrepro-demo/collection/fzq473l/api-endpoints?action=share&creator=34164250))
 - **Stripe Billing Portal**: [Stripe Billing](https://billing.stripe.com/p/login/14kaHj8NX5LJ5Ta8ww)
 - **Support Email**: [info@creditparsepro.io](mailto:info@creditparsepro.io)
 
