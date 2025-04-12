@@ -44,12 +44,6 @@ Our **Open Finance Library** is a growing collection of open-source financial mo
 Need custom fintech solutions, guidance on integrating fintech APIs, or help with data engineering and analytics?  
 Reach out to [info@granum-tech.com](mailto:info@granum-tech.com) for a free consultation.
 
-<p>
-  <img src="images/azure_az900.png" alt="Granum Technologies logo" width="75">
-  <img src="images/azure_dp203.png" alt="Granum Technologies logo" width="75">
-  <img src="images/google_analytics.png" alt="Granum Technologies logo" width="75">
-</p>
-
 ## Support
 For general support, questions, or inquiries, feel free to reach out to us at [info@granum-tech.com](mailto:info@granum-tech.com).
 
